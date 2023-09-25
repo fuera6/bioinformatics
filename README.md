@@ -11,7 +11,6 @@ gene 데이터 크롤링 및 mapping
 * Bio
 
 ## Directories & Files
-* document: 개발 관련 문서
 * source_code: 프로그램 소스코드
   * gene_gathering.py: 유전자 데이터를 txt 파일로 정리해 출력
   * mapping.py: 유전자 관련 데이터를 엑셀 파일로 정리해 출력

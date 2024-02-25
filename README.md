@@ -2,6 +2,7 @@
 gene 데이터 크롤링 및 mapping
 
 ## Usage
+* python Bio 패키지의 문법 및 활용법 정리
 * 원하는 종의 accession number를 입력하면 NCBI에서 관련 유전자 관련 데이터를 크롤링해 적절히 정리하여 출력
 
 ## Time
@@ -11,7 +12,7 @@ gene 데이터 크롤링 및 mapping
 * Bio
 
 ## Directories & Files
-* practice: biopython 기초 문법 및 기능 정리
+* practice: biopython 문법 및 활용법 정리
   * 1\. 기본 객체: Seq 및 SeqRecord 객체 소개
     * 1-1. Seq 객체.md
     * 1-2. SeqRecord 객체.md

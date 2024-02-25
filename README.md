@@ -11,6 +11,19 @@ gene 데이터 크롤링 및 mapping
 * Bio
 
 ## Directories & Files
-* source_code: 프로그램 소스코드
+* practice: biopython 기초 문법 및 기능 정리
+  * 1\. 기본 객체: Seq 및 SeqRecord 객체 소개
+    * 1-1. Seq 객체.md
+    * 1-2. SeqRecord 객체.md
+  * 2\. 고급 기능: 기타 고급 기능 소개
+    * 2-1. 파일 읽기.md
+    * 2-2. NCBI 데이터 크롤링.md
+    * 2-3. BLAST.md
+    * 2-4. 계통수.md
+    * 2-5. WebLogo.md
+    * 2-6. Swiss-Prot.md
+    * 2-7. ExPASy.md
+    * 2-8. KEGG, KEGG API.md
+* source_code: 실전 프로그램 소스코드
   * gene_gathering.py: 유전자 데이터를 txt 파일로 정리해 출력
   * mapping.py: 유전자 관련 데이터를 엑셀 파일로 정리해 출력
